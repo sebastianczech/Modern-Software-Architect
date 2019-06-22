@@ -3,11 +3,12 @@ Notes and links useful for Modern Software Architect
 
 ## Coupling levels
 
-|        | local method   | local instance   | external instance   | configurable instance   | notification |
-| How?   | +              | -                | -                   | -                       | -            |
-| Where? | +              | +                | -                   | -                       | -            |
-| Who?   | +              | +                | +                   | -                       | -            |
-| What?  | +              | +                | +                   | +                       | -            |
+|          | local method   | local instance   | external instance   | configurable instance   | notification |
+| -------- | -------------- | ---------------- | ------------------- | ----------------------- | ------------ |
+| *How?*   | +              | -                | -                   | -                       | -            |
+| *Where?* | +              | +                | -                   | -                       | -            |
+| *Who?*   | +              | +                | +                   | -                       | -            |
+| *What?*  | +              | +                | +                   | +                       | -            |
 
 *source: [Understanding coupling - Łukasz Szydło - wroc_love.rb 2018](https://www.youtube.com/watch?v=Jy6eS9QHJOM)*
 
@@ -26,10 +27,10 @@ Notes and links useful for Modern Software Architect
 
 ## General links about Modern Software Architect
 
-[Modern Software Architecture](https://medium.com/modern-software-architecture/modern-software-architecture-1-domain-driven-design-f06fad8695f9)
-[The top 5 software architecture patterns: How to make the right choice](https://techbeacon.com/app-dev-testing/top-5-software-architecture-patterns-how-make-right-choice)
-[Mikroserwisy – czy to dla mnie?](https://kubrynski.blog/mikroserwisy-czy-to-dla-mnie/)
+* [Modern Software Architecture](https://medium.com/modern-software-architecture/modern-software-architecture-1-domain-driven-design-f06fad8695f9)
+* [The top 5 software architecture patterns: How to make the right choice](https://techbeacon.com/app-dev-testing/top-5-software-architecture-patterns-how-make-right-choice)
+* [Mikroserwisy – czy to dla mnie?](https://kubrynski.blog/mikroserwisy-czy-to-dla-mnie/)
 
 ## Useful code repositories
 
-[A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns](https://github.com/ddd-by-examples/library)
+* [A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns](https://github.com/ddd-by-examples/library)
