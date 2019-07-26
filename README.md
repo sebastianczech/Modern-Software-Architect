@@ -26,6 +26,43 @@ Notes and links useful for Modern Software Architect
 
 *source: [Understanding coupling - Łukasz Szydło - wroc_love.rb 2018](https://www.youtube.com/watch?v=Jy6eS9QHJOM)*
 
+## General system architecture
+
+```
+---------------------- API GATEWAY ----------------------
+------------------------ filters ------------------------
+------------------------ routers ------------------------
+---------------------------------------------------------
+--- saga -----------------------------authorization------
+--- process managager ----------------logging------------
+--- workflow -------------------------notifications------
+---------------------------------------------------------
+---------------------- complex write --------------------
+--- kafka ------------ CRUD ----------------- * MQ ------
+---------------------- comple read ----------------------
+---------------------------------------------------------
+----------- hadoop -------- ML -------- spark -----------
+---------------------------------------------------------
+```
+
+* communication between services is done by messages (*city metaphor*)
+* database is private and under central elements for CRUD, read and write and duplication of data it prefered solution
+* pyramid of tests:
+   * for complex write: unit > integration-> e2e (unit the most important)
+   * for complex read: e2e > integration > unit (e2e the most important)
+   * for complex read: unit = integration = unit (all are important)
+* construction elements:
+   * for complex write: commands, events, aggregates, policies
+   * for complex read: read models
+* levels of designing from highest to lowest:
+   * system
+   * services
+   * construction elements
+   * objects
+   * instructions
+
+*source: [Boiling Frogs 2018 - Łukasz Szydło - Modularity – the final frontier](https://www.youtube.com/watch?v=2oJrjyp7GHE)*
+
 ## Useful articles
 
 * [Modern Software Architecture](https://medium.com/modern-software-architecture/modern-software-architecture-1-domain-driven-design-f06fad8695f9)
