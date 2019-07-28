@@ -63,6 +63,26 @@ Notes and links useful for Modern Software Architect
 
 *source: [Boiling Frogs 2018 - Łukasz Szydło - Modularity – the final frontier](https://www.youtube.com/watch?v=2oJrjyp7GHE)*
 
+## Architecture decision record
+
+* context:
+   * stable / unstable
+   * core / supporting / generic
+   * time
+   * known change vectors
+   * complexity (rules, config, math, versioning, performance)
+* decision
+* cosequences
+
+*source: [4Developers 2019: How does architect know? Łukasz Szydło](https://www.youtube.com/watch?v=Pm50mqO73YI)
+
+## Aspects of product
+
+* implementation: readability, reuse, expand
+* delivery: tests, configuration
+* use: availability, responsivness, security
+* maintenance: stability, reliabilty
+
 ## Useful articles
 
 * [Modern Software Architecture](https://medium.com/modern-software-architecture/modern-software-architecture-1-domain-driven-design-f06fad8695f9)
@@ -73,6 +93,14 @@ Notes and links useful for Modern Software Architect
 * [Bottega IT Minds - Darmowe materiały dla programistów](https://bottega.com.pl/materialy.xhtm?cat=DDD)
 * [GeeksforGeeks | Software Engineering | Coupling and Cohesion](https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/)
 * [Software Design Basics](https://www.tutorialspoint.com/software_engineering/software_design_basics.htm)
+
+## Useful books
+
+* [Domain-Driven Design](http://domainlanguage.com/ddd/blue-book/)
+* [Event storming](https://www.eventstorming.com/book/)
+* [Software architecture for developers](https://softwarearchitecturefordevelopers.com/)
+* [Just enough software architecture](https://www.georgefairbanks.com/e-book/)
+* [Software systems architecture](https://www.viewpoints-and-perspectives.info/home/book/)
 
 ## Useful repositories
 
