@@ -15,6 +15,16 @@ Notes and links useful for Modern Software Architect
 * microservices (distributed, modular)
 * distrubted monoligth (not modular)
 
+## Architecture patterns
+
+* P&A (port & adapters) (hexagonal)
+* CQRS (command query responsibility segregation)
+
+# Data models
+
+* anemic
+* objective
+
 ## Coupling levels
 
 |          | local method   | local instance   | external instance   | configurable instance   | notification |
