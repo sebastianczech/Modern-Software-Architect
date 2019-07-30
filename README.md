@@ -36,6 +36,28 @@ Notes and links useful for Modern Software Architect
 
 *source: [Understanding coupling - Łukasz Szydło - wroc_love.rb 2018](https://www.youtube.com/watch?v=Jy6eS9QHJOM)*
 
+## Communication in distributed system
+
+* temporal coupling
+* design for failure
+* asynchronous over synchronous
+* commans (queues) and events (topics)
+* asynchronous principles: 
+   * persistent
+   * at least once delivery
+   * exponential retries
+* synchronous only when required   
+* timeout ? retry !
+* circuit breaker (fallback)
+* load balancer is single point of failure
+* if service discovery is not available, use cached information about service
+* loose coupling over canonical model
+* contracts between services
+* monitoring is new testing
+* percentiles (P99.95), not average
+
+*source: [Boiling Frogs 2019 - Jakub Kubryński - Kuloorporna komunikacja w systemtach rozproszonych](https://www.youtube.com/watch?v=zq71CKfiB0g)*
+
 ## General system architecture
 
 ```
