@@ -55,6 +55,8 @@ Notes and links useful for Modern Software Architect
 * contracts between services
 * monitoring is new testing
 * percentiles (P99.95), not average
+* automation as a code, pipeline as a code -> CI/CD
+* infrastructure as a code, configuration as a code
 
 *source: [Boiling Frogs 2019 - Jakub Kubryński - Kuloorporna komunikacja w systemtach rozproszonych](https://www.youtube.com/watch?v=zq71CKfiB0g)*
 
