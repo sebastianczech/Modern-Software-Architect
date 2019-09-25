@@ -57,6 +57,10 @@ Notes and links useful for Modern Software Architect
 * percentiles (P99.95), not average
 * automation as a code, pipeline as a code -> CI/CD
 * infrastructure as a code, configuration as a code
+* [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem):
+   * **Consistency**: Every read receives the most recent write or an error
+   * **Availability**: Every request receives a (non-error) response, without the guarantee that it contains the most recent write
+   * **Partition tolerance**: The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes
 
 *source: [Boiling Frogs 2019 - Jakub Kubryński - Kuloorporna komunikacja w systemtach rozproszonych](https://www.youtube.com/watch?v=zq71CKfiB0g)*
 
