@@ -121,6 +121,19 @@ Notes and links useful for Modern Software Architect
 * use: availability, responsivness, security
 * maintenance: stability, reliabilty
 
+## Architect tools:
+
+* ADR (Markdown)
+* AsciiDoc
+* C4
+* plantUML
+* MindMap
+* MOSCOW
+* SWOT
+* EventStorming
+* Eisenhower box
+* Pareto
+
 ## Useful articles
 
 * [Modern Software Architecture](https://medium.com/modern-software-architecture/modern-software-architecture-1-domain-driven-design-f06fad8695f9)
