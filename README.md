@@ -144,6 +144,9 @@ Notes and links useful for Modern Software Architect
 * [Bottega IT Minds - Darmowe materiały dla programistów](https://bottega.com.pl/materialy.xhtm?cat=DDD)
 * [GeeksforGeeks | Software Engineering | Coupling and Cohesion](https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/)
 * [Software Design Basics](https://www.tutorialspoint.com/software_engineering/software_design_basics.htm)
+* [Example of Hexagonal architecture with high cohesion modularization, CQRS and fast BDD tests in Java](https://github.com/jakubnabrdalik/hentai)
+* [Martin Fowler - local DTO](https://martinfowler.com/bliki/LocalDTO.html)
+* [Martin Fowler - architecture](https://martinfowler.com/architecture/)
 
 ## Useful books
 
