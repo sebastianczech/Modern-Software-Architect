@@ -159,3 +159,4 @@ Notes and links useful for Modern Software Architect
 ## Useful repositories
 
 * [A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns](https://github.com/ddd-by-examples/library)
+* [Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect)
