@@ -147,6 +147,7 @@ Notes and links useful for Modern Software Architect
 * [Example of Hexagonal architecture with high cohesion modularization, CQRS and fast BDD tests in Java](https://github.com/jakubnabrdalik/hentai)
 * [Martin Fowler - local DTO](https://martinfowler.com/bliki/LocalDTO.html)
 * [Martin Fowler - architecture](https://martinfowler.com/architecture/)
+* [Narzędzia pracy konsultanta](https://radekmaziarka.pl/2020/02/04/narzedzia-pracy-konsultanta-cz1/)
 
 ## Useful books
 
