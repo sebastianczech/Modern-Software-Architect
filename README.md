@@ -147,7 +147,11 @@ Notes and links useful for Modern Software Architect
 * [Example of Hexagonal architecture with high cohesion modularization, CQRS and fast BDD tests in Java](https://github.com/jakubnabrdalik/hentai)
 * [Martin Fowler - local DTO](https://martinfowler.com/bliki/LocalDTO.html)
 * [Martin Fowler - architecture](https://martinfowler.com/architecture/)
+* [Martin Fowler - monolith first](https://martinfowler.com/bliki/MonolithFirst.html)
 * [Narzędzia pracy konsultanta](https://radekmaziarka.pl/2020/02/04/narzedzia-pracy-konsultanta-cz1/)
+* [Greg Young - Versioning in an Event Sourced System](https://leanpub.com/esversioning)
+* [A pattern language for microservices](https://microservices.io/patterns/index.html)
+* [XUnit Test Patterns](http://xunitpatterns.com/)
 
 ## Useful books
 
