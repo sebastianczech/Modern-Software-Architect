@@ -152,6 +152,7 @@ Notes and links useful for Modern Software Architect
 * [Greg Young - Versioning in an Event Sourced System](https://leanpub.com/esversioning)
 * [A pattern language for microservices](https://microservices.io/patterns/index.html)
 * [XUnit Test Patterns](http://xunitpatterns.com/)
+* [Why Every Element of SOLID is Wrong](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong?slide=6)
 
 ## Useful books
 
