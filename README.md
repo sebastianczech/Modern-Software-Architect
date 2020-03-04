@@ -153,6 +153,17 @@ Notes and links useful for Modern Software Architect
 * [A pattern language for microservices](https://microservices.io/patterns/index.html)
 * [XUnit Test Patterns](http://xunitpatterns.com/)
 * [Why Every Element of SOLID is Wrong](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong?slide=6)
+* [Too much coding - Marcin Grzejszczak](https://toomuchcoding.com/publications/)
+* [Miro - the best tool for Event Storming online](https://miro.com/)
+* [Creating C4 models using plantUML](https://github.com/RicardoNiepel/C4-PlantUML)
+* [draw.io plugin for C4 models](https://github.com/tobiashochguertel/c4-draw.io)
+* [Loosely-Coupled Architecture – how to get rid of the domino effect](https://radekmaziarka.pl/2019/01/15/loosely-coupled-architecture/)
+* [Mariusz Gil - awesome Event Storming](https://github.com/mariuszgil/awesome-eventstorming)
+* [Modular-services in a NodeJs Monolith](https://slides.com/navalsaini/modular-nodejs#)
+* [Wizualizacja architektury zgodnie z modelem C4. Podejście praktyczne](http://tomaszsokol.pl/wizualizacja-architektury-zgodnie-z-modelem-c4-podejscie-praktyczne/)
+* [Uncovering Hidden Business Rules with DDD Aggregates](https://medium.com/@ntcoding/uncovering-hidden-business-rules-with-ddd-aggregates-67fb02abc4b)
+* [Kamil Grzybek - Modular Monolith: A Primer](https://www.kamilgrzybek.com/design/modular-monolith-primer/)
+* [DNA-Zadania-Wstęp](http://ismartdev.pl/dna-zadania/dna-zadania-wstep/)
 
 ## Useful books
 
@@ -161,6 +172,7 @@ Notes and links useful for Modern Software Architect
 * [Software architecture for developers](https://softwarearchitecturefordevelopers.com/)
 * [Just enough software architecture](https://www.georgefairbanks.com/e-book/)
 * [Software systems architecture](https://www.viewpoints-and-perspectives.info/home/book/)
+* [Book about Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/cosmicpython/book)
 
 ## Useful repositories
 
