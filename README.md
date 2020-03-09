@@ -164,6 +164,7 @@ Notes and links useful for Modern Software Architect
 * [Uncovering Hidden Business Rules with DDD Aggregates](https://medium.com/@ntcoding/uncovering-hidden-business-rules-with-ddd-aggregates-67fb02abc4b)
 * [Kamil Grzybek - Modular Monolith: A Primer](https://www.kamilgrzybek.com/design/modular-monolith-primer/)
 * [DNA-Zadania-Wstęp](http://ismartdev.pl/dna-zadania/dna-zadania-wstep/)
+* [Allegro REST API Design Guideline](https://github.com/allegro/restapi-guideline)
 
 ## Useful books
 
