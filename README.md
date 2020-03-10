@@ -166,6 +166,10 @@ Notes and links useful for Modern Software Architect
 * [DNA-Zadania-Wstęp](http://ismartdev.pl/dna-zadania/dna-zadania-wstep/)
 * [Allegro REST API Design Guideline](https://github.com/allegro/restapi-guideline)
 * [Łukasz Szydło - DDD - o jeden krok za daleko](https://speakerdeck.com/lszydlo/ddd-o-jeden-krok-za-dalego)
+* [DevStyle.pl - O kohezji słów kilka](https://devstyle.pl/2020/03/09/o-kohezji-slow-kilka/)
+* [Open API specification](https://github.com/OAI/OpenAPI-Specification)
+* [Connascence is a software quality metric & a taxonomy for different types of coupling](https://connascence.io/)
+* [Technology Radar - Thoughtworks](https://www.thoughtworks.com/radar)
 
 ## Useful books
 
