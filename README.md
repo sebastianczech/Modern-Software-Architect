@@ -165,6 +165,7 @@ Notes and links useful for Modern Software Architect
 * [Kamil Grzybek - Modular Monolith: A Primer](https://www.kamilgrzybek.com/design/modular-monolith-primer/)
 * [DNA-Zadania-Wstęp](http://ismartdev.pl/dna-zadania/dna-zadania-wstep/)
 * [Allegro REST API Design Guideline](https://github.com/allegro/restapi-guideline)
+* [Łukasz Szydło - DDD - o jeden krok za daleko](https://speakerdeck.com/lszydlo/ddd-o-jeden-krok-za-dalego)
 
 ## Useful books
 
