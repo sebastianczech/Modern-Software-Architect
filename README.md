@@ -148,6 +148,8 @@ Notes and links useful for Modern Software Architect
 * [Martin Fowler - local DTO](https://martinfowler.com/bliki/LocalDTO.html)
 * [Martin Fowler - architecture](https://martinfowler.com/architecture/)
 * [Martin Fowler - monolith first](https://martinfowler.com/bliki/MonolithFirst.html)
+* [Martin Fowler - Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/index.html)
+* [Enterprise Integration Patterns - Messaging Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/IdempotentReceiver.html)
 * [Narzędzia pracy konsultanta](https://radekmaziarka.pl/2020/02/04/narzedzia-pracy-konsultanta-cz1/)
 * [Greg Young - Versioning in an Event Sourced System](https://leanpub.com/esversioning)
 * [A pattern language for microservices](https://microservices.io/patterns/index.html)
@@ -170,6 +172,9 @@ Notes and links useful for Modern Software Architect
 * [Open API specification](https://github.com/OAI/OpenAPI-Specification)
 * [Connascence is a software quality metric & a taxonomy for different types of coupling](https://connascence.io/)
 * [Technology Radar - Thoughtworks](https://www.thoughtworks.com/radar)
+* [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/#/en)
+* [Software Craftsmanship](https://bulldogjob.pl/news/274-software-craftsmanship)
+* [Azure Architecture Center Cloud Design Patterns](https://docs.microsoft.com/bs-latn-ba/azure/architecture/patterns/)
 
 ## Useful books
 
