@@ -175,6 +175,17 @@ Notes and links useful for Modern Software Architect
 * [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/#/en)
 * [Software Craftsmanship](https://bulldogjob.pl/news/274-software-craftsmanship)
 * [Azure Architecture Center Cloud Design Patterns](https://docs.microsoft.com/bs-latn-ba/azure/architecture/patterns/)
+* [Introduction to SOLID Design Principles for Java Developers](https://dzone.com/articles/a-gentle-and-easy-to-grasp-introduction-to-solid-p?edition=538293&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202019-11-13)
+* [Cloudflare - What Is Web Application Security?](https://www.cloudflare.com/learning/security/what-is-web-application-security/)
+* [11 Ways to Improve Your Web Application Security](https://www.webarxsecurity.com/improve-web-application-security/)
+* [Martin Fowler - The Basics of Web Application Security](https://martinfowler.com/articles/web-security-basics.html)
+* [Top open source ESB (Enterprise Service Bus)](https://dzone.com/articles/top-open-source-esbs)
+* [Securing REST APIs with Client Certificates](https://blog.pavelsklenar.com/securing-rest-api-with-client-certificate/)
+* [Security tool - OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
+* [Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
+* [API BFF, API agregation](https://patoarchitekci.io/19/)
+* [API Platform - REST and GraphQL framework to build modern API-driven projects](https://api-platform.com/)
+* [Refaktoryzacja](https://refactoring.pl/pl/posty/)
 
 ## Useful books
 
@@ -184,6 +195,7 @@ Notes and links useful for Modern Software Architect
 * [Just enough software architecture](https://www.georgefairbanks.com/e-book/)
 * [Software systems architecture](https://www.viewpoints-and-perspectives.info/home/book/)
 * [Book about Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/cosmicpython/book)
+* [Berkeley Packet Filter (BPF) Performance Tools](https://github.com/brendangregg/bpf-perf-tools-book)
 
 ## Useful repositories
 
