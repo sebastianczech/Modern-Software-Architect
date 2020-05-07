@@ -98,6 +98,7 @@ Notes and links useful for Modern Software Architect
    * construction elements
    * objects
    * instructions
+* saga - message handlers, which has state and it's long running process
 
 *source: [Boiling Frogs 2018 - Łukasz Szydło - Modularity – the final frontier](https://www.youtube.com/watch?v=2oJrjyp7GHE)*
 
