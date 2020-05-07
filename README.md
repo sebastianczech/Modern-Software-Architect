@@ -189,6 +189,7 @@ Notes and links useful for Modern Software Architect
 * [API BFF, API agregation](https://patoarchitekci.io/19/)
 * [API Platform - REST and GraphQL framework to build modern API-driven projects](https://api-platform.com/)
 * [Refaktoryzacja](https://refactoring.pl/pl/posty/)
+* [Message Broker or Bus – what’s the difference?](https://neiljbrown.com/2017/05/13/message-broker-or-bus-whats-the-difference/)
 
 ## Useful books
 
