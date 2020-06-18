@@ -137,12 +137,12 @@ Notes and links useful for Modern Software Architect
 
 ## SOLID, KISS, DRY
 
-SOLID:
-  * S – Single Responsibility
-  * O – Open – Closed
-  * L – Liskov Substitution
-  * I – Interface Segregation
-  * D – Dependency Inversion
+* SOLID:
+   * S – Single Responsibility
+   * O – Open – Closed
+   * L – Liskov Substitution
+   * I – Interface Segregation
+   * D – Dependency Inversion
 * DRY – Don’t Repeat Yourself
 * KISS – Keep It Simple Stupid
 
