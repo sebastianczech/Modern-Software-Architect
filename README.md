@@ -146,10 +146,6 @@ Notes and links useful for Modern Software Architect
 * DRY – Don’t Repeat Yourself
 * KISS – Keep It Simple Stupid
 
-* [Zasady projektowania obiektowego](https://devcave.pl/notatnik-juniora/zasady-projektowania-kodu)
-* [SOLID, DRY, KISS](https://maciejjedrzejewski.pl/2016/12/17/solid-dry-kiss/)
-* [SOLID](https://www.geeksforgeeks.org/dependecy-inversion-principle-solid/)
-
 ## Useful articles
 
 * [Modern Software Architecture](https://medium.com/modern-software-architecture/modern-software-architecture-1-domain-driven-design-f06fad8695f9)
@@ -206,6 +202,9 @@ Notes and links useful for Modern Software Architect
 * [API Platform - REST and GraphQL framework to build modern API-driven projects](https://api-platform.com/)
 * [Refaktoryzacja](https://refactoring.pl/pl/posty/)
 * [Message Broker or Bus – what’s the difference?](https://neiljbrown.com/2017/05/13/message-broker-or-bus-whats-the-difference/)
+* [Zasady projektowania obiektowego](https://devcave.pl/notatnik-juniora/zasady-projektowania-kodu)
+* [SOLID, DRY, KISS](https://maciejjedrzejewski.pl/2016/12/17/solid-dry-kiss/)
+* [SOLID](https://www.geeksforgeeks.org/dependecy-inversion-principle-solid/)
 
 ## Useful books
 
