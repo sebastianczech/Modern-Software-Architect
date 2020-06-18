@@ -135,6 +135,21 @@ Notes and links useful for Modern Software Architect
 * Eisenhower box
 * Pareto
 
+## SOLID, KISS, DRY
+
+SOLID:
+  * S – Single Responsibility
+  * O – Open – Closed
+  * L – Liskov Substitution
+  * I – Interface Segregation
+  * D – Dependency Inversion
+* DRY – Don’t Repeat Yourself
+* KISS – Keep It Simple Stupid
+
+* [Zasady projektowania obiektowego](https://devcave.pl/notatnik-juniora/zasady-projektowania-kodu)
+* [SOLID, DRY, KISS](https://maciejjedrzejewski.pl/2016/12/17/solid-dry-kiss/)
+* [SOLID](https://www.geeksforgeeks.org/dependecy-inversion-principle-solid/)
+
 ## Useful articles
 
 * [Modern Software Architecture](https://medium.com/modern-software-architecture/modern-software-architecture-1-domain-driven-design-f06fad8695f9)
