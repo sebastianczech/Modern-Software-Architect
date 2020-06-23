@@ -146,6 +146,19 @@ Notes and links useful for Modern Software Architect
 * DRY – Don’t Repeat Yourself
 * KISS – Keep It Simple Stupid
 
+## Udi Dahan materials 
+
+* [Webinar: Connect frontend to backend using SignalR and messaging](https://go.particular.net/e/27442/nd-using-signalr-and-messaging/8szlqs/1463215887?h=x6e3qKiv_DcfViVyyTqOa7TLrm379VScKwUyulYETjs)
+* [Blog post: Careful with Content-based routing](https://go.particular.net/e/27442/ul-with-content-based-routing-/8szlqv/1463215887?h=x6e3qKiv_DcfViVyyTqOa7TLrm379VScKwUyulYETjs)
+* [Documentation: Architectural Principles](https://go.particular.net/e/27442/icebus-architecture-principles/8szlqx/1463215887?h=x6e3qKiv_DcfViVyyTqOa7TLrm379VScKwUyulYETjs)
+* [Atomic increment using Riak counters](https://go.particular.net/e/27442/ing-data-types-counters-1-html/8szlqz/1463215887?h=x6e3qKiv_DcfViVyyTqOa7TLrm379VScKwUyulYETjs)
+* [Webinar: Finding your service boundaries: a practical guide](https://go.particular.net/e/27442/e-boundaries-a-practical-guide/8szlr2/1463215887?h=x6e3qKiv_DcfViVyyTqOa7TLrm379VScKwUyulYETjs)
+* [Webinar: All our aggregates are wrong](https://go.particular.net/e/27442/s-all-our-aggregates-are-wrong/8szlr4/1463215887?h=x6e3qKiv_DcfViVyyTqOa7TLrm379VScKwUyulYETjs)
+* [Blog post: Goodbye microservices, hello right sized services](https://go.particular.net/e/27442/ces-hello-right-sized-services/8szlr6/1463215887?h=x6e3qKiv_DcfViVyyTqOa7TLrm379VScKwUyulYETjs)
+* [Blog post: Break that big ball of mud](https://go.particular.net/e/27442/log-break-that-big-ball-of-mud/8szlr8/1463215887?h=x6e3qKiv_DcfViVyyTqOa7TLrm379VScKwUyulYETjs)
+* [Blog post: Microservices: the future or empty hype?](https://go.particular.net/e/27442/oservices-future-or-empty-hype/8szlrb/1463215887?h=x6e3qKiv_DcfViVyyTqOa7TLrm379VScKwUyulYETjs)
+* [Webinar: Making workflow implementation easy with CQRS](https://go.particular.net/e/27442/-implementation-easy-with-cqrs/8szlrd/1463215887?h=x6e3qKiv_DcfViVyyTqOa7TLrm379VScKwUyulYETjs)
+
 ## Useful articles
 
 * [Modern Software Architecture](https://medium.com/modern-software-architecture/modern-software-architecture-1-domain-driven-design-f06fad8695f9)
