@@ -229,6 +229,10 @@ Notes and links useful for Modern Software Architect
 * [Book about Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/cosmicpython/book)
 * [Berkeley Packet Filter (BPF) Performance Tools](https://github.com/brendangregg/bpf-perf-tools-book)
 
+## Useful courses
+
+* [DevUpgrade](https://www.youtube.com/channel/UCvNne80z8XObPYIhDwnKDrg)
+
 ## Useful repositories
 
 * [A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns](https://github.com/ddd-by-examples/library)
