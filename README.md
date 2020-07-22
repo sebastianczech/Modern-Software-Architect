@@ -236,5 +236,6 @@ Notes and links useful for Modern Software Architect
 ## Useful repositories
 
 * [A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns](https://github.com/ddd-by-examples/library)
+* [Modular Monolith with DDD](https://github.com/kgrzybek/modular-monolith-with-ddd)
 * [Aggregates by example](https://github.com/mariuszgil/aggregates-by-example)
 * [Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect)
