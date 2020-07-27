@@ -148,6 +148,13 @@ Notes and links useful for Modern Software Architect
 * DRY – Don’t Repeat Yourself
 * KISS – Keep It Simple Stupid
 
+## 4 layers of domain model - reponsibility layers (chapter 16 from DDD - Eric Evans)
+
+* CP - Capabilities
+* OP - Operations
+* P - Policies
+* DM - Decision making
+
 ## Udi Dahan materials 
 
 * [Webinar: Connect frontend to backend using SignalR and messaging](https://go.particular.net/e/27442/nd-using-signalr-and-messaging/8szlqs/1463215887?h=x6e3qKiv_DcfViVyyTqOa7TLrm379VScKwUyulYETjs)
