@@ -128,6 +128,7 @@ Notes and links useful for Modern Software Architect
 * AsciiDoc
 * C4
 * plantUML
+* [Diagram as a Code](https://diagrams.mingrammer.com/)
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/)
 * [Lucidchart](https://app.lucidchart.com/)
 * MindMap
