@@ -228,6 +228,7 @@ Notes and links useful for Modern Software Architect
 * [Zasady projektowania obiektowego](https://devcave.pl/notatnik-juniora/zasady-projektowania-kodu)
 * [SOLID, DRY, KISS](https://maciejjedrzejewski.pl/2016/12/17/solid-dry-kiss/)
 * [SOLID](https://www.geeksforgeeks.org/dependecy-inversion-principle-solid/)
+* [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 ## Useful books
 
