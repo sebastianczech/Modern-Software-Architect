@@ -156,6 +156,20 @@ Notes and links useful for Modern Software Architect
 * P - Policies
 * DM - Decision making
 
+## EventStorming
+
+* [Michał Bartyzel](https://www.michalbartyzel.pl/) - Biznes jest prosty
+  * [Lean Canvas - introduction](https://medium.com/@steve_mullen/an-introduction-to-lean-canvas-5c17c469d3e0)
+    * When to use event storming ? 
+      * Unique value proposition
+      * Unfair adventage
+      * Anomalies
+    * Domain model archetypes (the rest between IT and business)
+  * [How to create your lean canvs](https://leanstack.com/LeanCanvas.pdf)
+  * [Communicate your idea clearly and concisely to others so they can get behind it](https://leanstack.com/lean-canvas)
+* Jakub Pilimon - O odkrywaniu granic - heurystyki ważnych decyzji
+* Mariusz Gil - EventStorming to tylko narzędzie, używaj go mądrze
+
 ## Udi Dahan materials 
 
 * [Webinar: Connect frontend to backend using SignalR and messaging](https://go.particular.net/e/27442/nd-using-signalr-and-messaging/8szlqs/1463215887?h=x6e3qKiv_DcfViVyyTqOa7TLrm379VScKwUyulYETjs)
