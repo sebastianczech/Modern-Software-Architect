@@ -168,7 +168,29 @@ Notes and links useful for Modern Software Architect
   * [How to create your lean canvs](https://leanstack.com/LeanCanvas.pdf)
   * [Communicate your idea clearly and concisely to others so they can get behind it](https://leanstack.com/lean-canvas)
 * Jakub Pilimon - O odkrywaniu granic - heurystyki ważnych decyzji
+  * heuristics - methodology, logic, solution discovery
+  * event storming - tool to achieve some goal
+  * the cost of implementing a system is minimal when parts of the problem are:
+    * manageably small
+    * solveable separately
+  * low coupling & high cohesion
+    * logical cohesion is wrong
+    * temporal cohesion
+  * heuristics examples:
+    1. removability - disposable modules - Royal Australian Air Force (if you can't find error in module in less than 15 minutes, remove this module)
+    2. observable behaviours - pivotal events - events which are changing our current logic 
+    3. be careful with systems storing status
+    4. look out for logical cohesion
+    5. look out for data placeholders
+    6. look out for temporal cohesion
+    7. data and rules stay together (what changes together, stays together)
+    8. data used together (autonomy, minimalized coupling)
+    9. anit-requirements 
+    10. schizophrenia (many if)
+    11. archetypes
 * Mariusz Gil - EventStorming to tylko narzędzie, używaj go mądrze
+  * f(hajs, time)
+  * IT Depends Certified Developer
 
 ## Udi Dahan materials 
 
