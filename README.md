@@ -189,8 +189,32 @@ Notes and links useful for Modern Software Architect
     10. schizophrenia (many if)
     11. archetypes
 * Mariusz Gil - EventStorming to tylko narzędzie, używaj go mądrze
-  * f(hajs, time)
-  * IT Depends Certified Developer
+  * quotes:
+    * f(hajs, time)
+    * IT Depends Certified Developer
+  * types, sessions:
+    * big picture event storming (events)
+    * process level event storming (events, commands etc.)
+    * software design level event storming
+  * problems:
+    * goal and tools used in session e.g. 
+      * goals: person boarding, look for hot spots
+      * tools: C4, ES
+    * the source of knowledge is the expert, not the user
+    * events are not the same - types of events (domain event, infrastructure event, environmental event, interface event)
+    * naive business process
+    * illusory symmetry (into views, forms, models etc.)
+    * find aggregates where there are 
+    * complicating things beyond measure
+  * problem space, solution space
+  * 3 B - being, behaving, becoming 
+  * takeways:
+    * goal of session is important, change tool if needed (ES is a tool)
+    * pay attention to who and what language you speak
+    * do not think about the user interface and model significant changes in the domain
+    * try to cover the real business processes
+    * watch out for symmetries (commands, events), look for real consequences
+    * look for a model that achieves the goal
 
 ## Udi Dahan materials 
 
