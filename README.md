@@ -215,6 +215,25 @@ Notes and links useful for Modern Software Architect
     * try to cover the real business processes
     * watch out for symmetries (commands, events), look for real consequences
     * look for a model that achieves the goal
+* Workshop:
+  * event - pomarańczowe karteczki:
+    * opisuje istotną zmianę systemu lub procesu
+    * opisane czasem przesłym (aspekt dokonany)
+    * osadzalne w czasie
+    * może byc częścią większej całości np. procesu biznesowego
+    * jest powiązany z dodatkowymi informacjami
+  * oś czasu od lewej do prawej, pod którą umieszczamy zdarzenia
+  * hotspot - tematy do dalszej analizy, pytania, niewiadome itd.
+  * zdarzenie jest konsekwenkcją akcji (komendy / intent)
+    * tryb rozkający
+  * actor -> command / intent -> rule -> event -> data -> ui
+  * w kodzie:
+    * rule -> if (in object in this context)
+    * command -> method, function
+  * wykorzystanie artefaktów ES bez pisania kodu:
+    * story mapping ?
+    * user journey ?
+    * C4 ?
 
 ## Udi Dahan materials 
 
