@@ -140,12 +140,13 @@ Notes and links useful for Modern Software Architect
 
 ## SOLID, KISS, DRY
 
-* SOLID:
-   * S – Single Responsibility
-   * O – Open – Closed
-   * L – Liskov Substitution
-   * I – Interface Segregation
-   * D – Dependency Inversion
+* [Law of Demeter (LoD)](https://en.wikipedia.org/wiki/Law_of_Demeter) - principle of least knowledge
+* [SOLID](https://en.wikipedia.org/wiki/SOLID):
+   * S – Single Responsibility - A class should only have a single responsibility, that is, only changes to one part of the software's specification should be able to affect the specification of the class.
+   * O – Open – Closed - Software entities ... should be open for extension, but closed for modification.
+   * L – Liskov Substitution - Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.
+   * I – Interface Segregation - Many client-specific interfaces are better than one general-purpose interface.
+   * D – Dependency Inversion - One should depend upon abstractions, not concretions.
 * DRY – Don’t Repeat Yourself
 * KISS – Keep It Simple Stupid
 
