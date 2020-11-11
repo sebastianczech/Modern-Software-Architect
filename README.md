@@ -138,6 +138,7 @@ Notes and links useful for Modern Software Architect
 * EventStorming
 * Eisenhower box
 * Pareto
+* [Archi](https://www.archimatetool.com/)
 
 ## SOLID, KISS, DRY
 
