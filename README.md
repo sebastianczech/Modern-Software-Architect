@@ -314,6 +314,7 @@ Notes and links useful for Modern Software Architect
 * [SOLID, DRY, KISS](https://maciejjedrzejewski.pl/2016/12/17/solid-dry-kiss/)
 * [SOLID](https://www.geeksforgeeks.org/dependecy-inversion-principle-solid/)
 * [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/)
 
 ## Useful books
 
